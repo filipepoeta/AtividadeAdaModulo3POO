@@ -1,0 +1,8 @@
+using Animais.ClassesBase;
+
+namespace Animais;
+
+public class Leao : Mamifero
+{
+    
+}
